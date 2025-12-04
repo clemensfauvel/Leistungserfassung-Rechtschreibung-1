@@ -1,0 +1,5 @@
+{
+  "name": "LegalOps AI Assistant",
+  "description": "A streamlined legal service recording tool featuring GDPR-compliant multilingual spell checking via LanguageTool.",
+  "requestFramePermissions": []
+}
